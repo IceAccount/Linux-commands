@@ -1,2 +1,2 @@
 # Linux-commands
-I use Arch btw.
+ちなみに、Archを使っています。
